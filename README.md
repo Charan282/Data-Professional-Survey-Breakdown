@@ -20,7 +20,7 @@ Open it using Power BI Desktop.
 **Interact with Filters:**
 Use slicers and filters within the dashboard to focus on specific regions, job titles, or other dimensions of interest.
 
-# Key Insights:
+# Key Insights
 ** Top Job Titles:**
 Data Scientists report the highest average salaries among survey participants.
 
