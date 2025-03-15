@@ -21,10 +21,10 @@ Open it using Power BI Desktop.
 Use slicers and filters within the dashboard to focus on specific regions, job titles, or other dimensions of interest.
 
 # Key Insights
-** Top Job Titles:**
+**Top Job Titles:**
 Data Scientists report the highest average salaries among survey participants.
 
-**# Programming Languages:**
+**Programming Languages:**
 Python is the most popular programming language among data professionals, followed by SQL and R.
 
 **Work-Life Balance:**
